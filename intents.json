@@ -11,7 +11,7 @@
     },
     {
       "tag": "courses",
-      "patterns": ["What courses are offered?", "List of courses", "Available programs"],
+      "patterns": ["What courses are offered?", "List of courses","course", "Available programs"],
       "responses": [
         "🎓 We offer various programs:\n- B.Tech: CSE, ECE, Mechanical, Civil, AI & DS\n- M.Tech: Embedded Systems, Structural Engineering\n- MBA & MCA with top specializations.",
         "<img src='/static/courses.png' width='300' alt='Courses'>",
